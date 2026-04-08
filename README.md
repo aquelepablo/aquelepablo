@@ -101,12 +101,9 @@ This is the kind of backend problem I enjoy most: systems that need structure, t
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="./github-stats.svg" height="170em" />
-
-<img src="./top-langs.svg" height="170em" />
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./profile/stats.svg" height="170em" />
+  <img src="./profile/top-langs.svg" height="170em" />
 </div>
 
 ---
