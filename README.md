@@ -54,11 +54,13 @@ I’m especially interested in backend work that involves **clarity, traceabilit
 ## 📂 Featured Project
 
 ### 🚀 Regulatory Batch Processing System
+
 **[regulatory-batch-processing](https://github.com/aquelepablo/regulatory-batch-processing)**
 
 A backend portfolio project that demonstrates how to design an **auditable batch-processing workflow** using **Python, FastAPI, PostgreSQL, and SQL-first validation**.
 
 This project focuses on:
+
 - job-oriented batch processing
 - explicit lifecycle transitions
 - streaming ingestion
@@ -73,6 +75,7 @@ This is the kind of backend problem I enjoy most: systems that need structure, t
 ## 🛠️ Tech Stack
 
 ### Core
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -83,6 +86,7 @@ This is the kind of backend problem I enjoy most: systems that need structure, t
 </p>
 
 ### Background Strengths
+
 <p>
   <img src="https://img.shields.io/badge/Systems%20Analysis-2d333b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Business%20Rules-2d333b?style=for-the-badge" />
@@ -98,8 +102,11 @@ This is the kind of backend problem I enjoy most: systems that need structure, t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aquelepablo&show_icons=true&rank_icon=github&hide_border=true" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelepablo&layout=compact&hide_border=true" height="170em" />
+
+<img src="./github-stats.svg" height="170em" />
+
+<img src="./top-langs.svg" height="170em" />
+
 </div>
 
 ---
