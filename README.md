@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="Pablo Nunes Alves Banner" width="100%">
+  <img src="banner_github_profile.png" alt="Pablo Nunes Alves Banner" width="100%">
 </div>
 
 <div align="right">
   <details>
     <summary><b>🇺🇸 English (Default) / 🇧🇷 Ler em Português</b></summary>
-    <p>Scroll down to the Portuguese section at the bottom.</p>
+    <p>Use the toggle bellow to open Portuguese section.</p>
   </details>
 </div>
 
@@ -39,6 +39,21 @@ Backend-focused developer with a strong background in systems analysis, SQL, bus
 After many years working close to software from both the technical and business sides, I’m now sharpening my hands-on backend execution with a clear focus on **Python, APIs, data flows, and backend design**.
 
 I’m especially interested in backend work that involves **clarity, traceability, validation, lifecycle control, and business-critical logic** — the kind of systems where understanding the real-world process matters as much as writing the code.
+
+---
+
+<details>
+<summary><b>🇧🇷 Português</b></summary>
+
+Sou um desenvolvedor com foco em backend, com base forte em análise de sistemas, SQL, regras de negócio e entrega em contexto real.
+
+Depois de muitos anos atuando próximo ao software pelos lados técnico e negocial, hoje estou reforçando minha execução hands-on em backend, com foco claro em **Python, APIs, fluxos de dados e design de backend**.
+
+Gosto especialmente de problemas que exigem **clareza, rastreabilidade, validação, controle de ciclo de vida e lógica de negócio** — sistemas em que entender o processo real importa tanto quanto escrever o código.
+
+Hoje meu foco está em construir projetos que reflitam esse tipo de desafio de forma prática e honesta.
+
+</details>
 
 ---
 
@@ -115,18 +130,3 @@ This is the kind of backend problem I enjoy most: systems that need structure, t
     <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Nunes%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-<details>
-<summary><b>🇧🇷 Português</b></summary>
-
-Sou um desenvolvedor com foco em backend, com base forte em análise de sistemas, SQL, regras de negócio e entrega em contexto real.
-
-Depois de muitos anos atuando próximo ao software pelos lados técnico e negocial, hoje estou reforçando minha execução hands-on em backend, com foco claro em **Python, APIs, fluxos de dados e design de backend**.
-
-Gosto especialmente de problemas que exigem **clareza, rastreabilidade, validação, controle de ciclo de vida e lógica de negócio** — sistemas em que entender o processo real importa tanto quanto escrever o código.
-
-Hoje meu foco está em construir projetos que reflitam esse tipo de desafio de forma prática e honesta.
-
-</details>
